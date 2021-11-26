@@ -1,3 +1,7 @@
+# Credits
+Credits to Udemy Course: "React Redux Ecommerce - Master MERN Stack Web Development"
+URL: https://www.udemy.com/course/react-redux-ecommerce/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
